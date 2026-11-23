@@ -6,4 +6,6 @@
 ###  The author is not responsible for your mistakes.
 
 
-![Uploading iiQka_ операционная система для роботов KUKA.png…]()
+<img width="1406" height="789" alt="image" src="https://github.com/user-attachments/assets/970adbbf-2fa5-48ca-816c-df4bd29345cb" />
+
+
